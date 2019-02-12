@@ -1,0 +1,36 @@
+boot the programme on home menu
+
+bouton (list manager)
+bouton (scale)
+bouton (what can i eat)
+bouton (stats)
+bouton (off)>  turn off the device >need to be old 3 sec
+
+
+on scale
+
+inpout data from the load cell hx711
+
+-bouton (tare)> back to 0 
+-bouton (mode)> weight in grams, pound, kilo
+
+-bouton (print)> print the result then ask
+          >> what the product? > list or input mew one
+          >> for who or for what
+          >> the price *option
+          >> else *option
+then output the print with the date include to a datasheet into stats/in stock          
+          
+          
+          
+on list manager
+
+-inpout your inventory data (name, weight, price buyimg date , peremptiom, protein)
+-inpout receipts including preparation and info like (breakfeast meal and protein, calories)
+-outpout alert on peremption stuff and allow you to remove it from inventory 
+
+
+on what can i eat 
+
+output list of receipt that i can do according to my inventory list and expend my research 
+       to all receipt that miss 1, 2 ,3 or more ingredient 
